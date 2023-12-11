@@ -1,0 +1,19 @@
+.site-header {
+    background-color:black;
+}
+
+.site-header a {
+    color:red
+}
+
+p,
+h1 {
+    color: pink;
+}
+.color-text {
+    color: red;
+}
+
+#paragraph {
+    color:blue
+}
